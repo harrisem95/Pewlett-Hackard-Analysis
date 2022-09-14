@@ -12,7 +12,7 @@ The purpose of this analysis is to analyze the data from Pewlett Hackard to dete
 * The mentorship_eligibility.csv file contains a list of employees that are currently working at the company who would be eligible to train lower employees. This list is super helpful because as many jobs open up due to employees retiring, a mentorship program could help lower level employees get promoted to fill these positions.
 
 #### Pewlett Hackard ERD
-![Employee_ERD](employeeDB.png)
+![Employee_ERD](EmployeeDB.png)
 
 
 ## Pewlett Hackard Summary
